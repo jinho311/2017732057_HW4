@@ -17,3 +17,4 @@
 
 #### This part is written by HaileyHyewonChung from the forked repository
 #### AI Application assignment
+#### 2019732018 정혜원
