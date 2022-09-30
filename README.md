@@ -13,3 +13,7 @@
 
 ###이 부분은 'branch_pr'에서 추가된 부분 입니다.
 2022.02.30
+
+
+#### This part is written by HaileyHyewonChung from the forked repository
+#### AI Application assignment
